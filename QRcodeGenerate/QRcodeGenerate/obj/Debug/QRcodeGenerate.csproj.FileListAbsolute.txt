@@ -1,0 +1,10 @@
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\bin\Debug\QRcodeGenerate.exe.config
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\obj\Debug\QRcodeGenerate.csprojResolveAssemblyReference.cache
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\obj\Debug\QRcodeGenerate.Form1.resources
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\obj\Debug\QRcodeGenerate.Properties.Resources.resources
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\obj\Debug\QRcodeGenerate.csproj.GenerateResource.Cache
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\bin\Debug\QRcodeGenerate.exe
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\bin\Debug\QRcodeGenerate.pdb
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\bin\Debug\MessagingToolkit.QRCode.dll
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\obj\Debug\QRcodeGenerate.exe
+C:\saif_projects\c#\QRcodeGenerate\QRcodeGenerate\obj\Debug\QRcodeGenerate.pdb
